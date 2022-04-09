@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\OC\source\repos\4-9随便写写\4-9随便写写\main.c(24,25): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\OC\source\repos\4-9随便写写\4-9随便写写\main.c(26,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  4-9随便写写.vcxproj -> C:\Users\OC\source\repos\4-9随便写写\x64\Debug\4-9随便写写.exe
