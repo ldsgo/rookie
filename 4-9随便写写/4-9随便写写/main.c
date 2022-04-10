@@ -17,7 +17,7 @@ void exchange_arr(int* x,int* y)
 	}
 }
 //Ë®ÏÉ»¨Êý
-int Narcissistic_number(int i)
+double Narcissistic_number(int i)
 {
 	if (i > 9)
 	{
