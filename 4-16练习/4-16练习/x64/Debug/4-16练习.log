@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\OC\source\repos\4-16练习\4-16练习\main.c(4,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\OC\source\repos\4-16练习\4-16练习\main.c(4,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\OC\source\repos\4-16练习\4-16练习\main.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\OC\source\repos\4-16练习\4-16练习\main.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+  4-16练习.vcxproj -> C:\Users\OC\source\repos\4-16练习\x64\Debug\4-16练习.exe
